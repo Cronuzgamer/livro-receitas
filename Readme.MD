@@ -1,11 +1,9 @@
-# Livro de receitas:man_cook:
+- # Livro de receitas👨‍🍳
 
-Ola! Bem vindo ao meu livro de receitas:wave:
-
-- Strogonoff de frango:chicken:
-
-- Pavê:cake:
-
+  Ola! Bem vindo ao meu livro de receitas👋
   
+  - Strogonoff de frango🐔
   
+  - Pavê
   
+    
